@@ -1,0 +1,10 @@
+Call:
+   aov(formula = Weight ~ Field, data = clean_yield_data)
+
+Terms:
+                   Field Residuals
+Sum of Squares  118.4899   49.9470
+Deg. of Freedom        2        10
+
+Residual standard error: 2.234883
+Estimated effects may be unbalanced
